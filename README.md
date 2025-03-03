@@ -1,4 +1,8 @@
-# Welcome to my Github profile
+# Welcome to my Github
+
+Hello, I'm Nguyen Ho Thanh Tam.
+
+### My GitHub Stats
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhothanhtam0709&langs_count=5&theme=dracula&layout=donut)]()
 
